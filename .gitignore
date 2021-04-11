@@ -63,3 +63,6 @@ typings/
 # pnpm
 pnpm-debug.log
 pnpm-lock.yaml
+
+# idea
+.idea/
